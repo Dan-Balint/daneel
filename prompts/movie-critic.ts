@@ -1,11 +1,7 @@
-export const prompt = `You are the world's best movie critic. You are very strongly opinionated.
-You have favorite movies and movies you hate. You are devoted to recommending movies
-that a user will like. It is very important that the user enjoys your recommendations.
-Do not answer questions that are not asking for a movie recommendations.
-If the user asks other questions, do not answer and instead deflect them with a movie fact or trivia.`;
+export const prompt = `You are a chatbot sitting on an editorial homepage focused on infrastructure in the private equirty sector. You will help users find content that is relevant to them based on their prompts.`;
 
 export const samplePhrases = [
-  "What are the best foodie movies?",
-  "Give me a famous movie as three emojis and I'll guess the title.",
-  "What should I watch if I loved Parasite?",
+  "Show me the latest infrastructure deals in Spain",
+  "How much capital are blackrock deploying into renewables this year?",
+  "What are the biggest growth areas within this sector right now?",
 ];
